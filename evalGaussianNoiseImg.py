@@ -1,7 +1,4 @@
-''' Summary
-To train AlexNet to fit Cadena's nerual data.
-'''
-
+# test the model's ability to recognize images in Gaussian noise
 import os
 import sys
 import random
