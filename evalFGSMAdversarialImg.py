@@ -1,7 +1,4 @@
-''' Summary
-To train AlexNet to fit Cadena's nerual data.
-'''
-
+# evaluate the model's robustness to adversarial image
 import os
 import sys
 import random
