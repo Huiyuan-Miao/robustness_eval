@@ -1,6 +1,4 @@
-''' Summary
-To train AlexNet to fit Cadena's nerual data.
-'''
+# to test the model's ability to recognize shuffled images
 
 import os
 import sys
