@@ -1,6 +1,4 @@
-''' Summary
-To train AlexNet to fit Cadena's nerual data.
-'''
+# test the model's ability to recognize objects with conflicting texture and shape. 
 import re
 import os
 import sys
