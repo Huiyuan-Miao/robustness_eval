@@ -1,7 +1,3 @@
-''' Summary
-To train AlexNet to fit Cadena's nerual data.
-'''
-
 import os
 import sys
 import random
