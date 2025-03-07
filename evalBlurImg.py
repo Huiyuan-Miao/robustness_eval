@@ -1,3 +1,4 @@
+# evaluate the model's ability to recognize blurry images
 import os
 import sys
 import random
