@@ -1,7 +1,4 @@
-''' Summary
-To train AlexNet to fit Cadena's nerual data.
-'''
-
+# to test the model's ability to different types of corruption using dataset imagenet - C
 import os
 import sys
 import random
